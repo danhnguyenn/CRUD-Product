@@ -1,0 +1,67 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": "1000",
+      "description": "Fruits",
+      "date": "2023-02-01T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Grape",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": "100",
+      "description": "Apple",
+      "date": "2023-01-31T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Bana",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": "100",
+      "description": "Fruits",
+      "date": "2023-02-08T17:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Iphone",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": "1200",
+      "description": "Iphone 14 Promax",
+      "date": "2023-01-03T17:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Macbook",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": "1500",
+      "description": "Macbook Pro M2",
+      "date": "2023-02-01T17:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Apple Watch S7",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": "1500",
+      "description": "Apple Watch Series 7",
+      "date": "2023-01-23T17:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "a",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": "100",
+      "description": "appp",
+      "date": "2023-02-08T17:00:00.000Z",
+      "id": 7
+    }
+  ]
+}
